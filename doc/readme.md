@@ -5,7 +5,7 @@
 
 ## 项目用到的软件包 
 
-链接:https://pan.baidu.com/s/1A_QKsHyx_eZvichqbk0r3g 
+链接:https://pan.baidu.com/s/1A_QKsHyx_eZvichqbk0r3g
 提取码:fwmv
 
 ## 项目笔记脑图

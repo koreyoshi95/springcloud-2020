@@ -16,13 +16,12 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class CommonResult<T> { //hello
-    //你好啊,jack
+public class CommonResult<T> {
     private Integer code;
     private String message;
     private T data;
 
-    public CommonResult(Integer code, String message){
-        this(code,message,null);
+    public CommonResult(Integer code, String message) {
+        this(code, message, null);
     }
 }
