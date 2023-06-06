@@ -17,7 +17,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Builder
 public class CommonResult<T> { //hello
-
+    //你好啊
     private Integer code;
     private String message;
     private T data;
