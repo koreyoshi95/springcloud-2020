@@ -16,7 +16,8 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class CommonResult<T> {
+public class CommonResult<T> { //hello
+
     private Integer code;
     private String message;
     private T data;
